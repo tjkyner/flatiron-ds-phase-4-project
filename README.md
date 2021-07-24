@@ -4,10 +4,10 @@ Student pace: Full time \
 Instructor: Abhineet Kulkarni \
 Cohort: 040521
 
-# Project Overview
-## Data Source
-## Business Problem
-## Repository Structure
+## Project Overview
+### Data Source
+### Business Problem
+### Repository Structure
 ```
 ├── images/          # Exported images of plots
 ├── submissions/     # Files used for the project submissions
@@ -18,12 +18,12 @@ Cohort: 040521
 └── zillow_data.csv  # Data from Zillow Research on median house prices
 ```
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 
-# Data Preprocessing
+## Data Preprocessing
 
-# Modeling
+## Modeling
 
-# Conclusion
-## Results
-## Next Steps
+## Conclusion
+### Results
+### Next Steps

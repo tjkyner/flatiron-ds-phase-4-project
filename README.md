@@ -18,9 +18,9 @@ Cohort: 040521
 └── zillow_data.csv  # Data from Zillow Research on median house prices
 ```
 
-## Exploratory Data Analysis
-
 ## Data Preprocessing
+
+## Exploratory Data Analysis
 
 ## Modeling
 

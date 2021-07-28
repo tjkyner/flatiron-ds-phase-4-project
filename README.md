@@ -9,13 +9,19 @@ Cohort: 040521
 ### Business Problem
 ### Repository Structure
 ```
+├── data/
+│    ├── fips_county_level.csv
+│    ├── fips_state_level.csv
+│    ├── geojson_ohio_zipcodes.json
+│    ├── geojson_counties_fips.json
+│    └── zillow_data.csv               # Median house prices
+│
 ├── images/          # Exported images of plots
 ├── submissions/     # Files used for the project submissions
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── notebook.ipynb   # Jupyter notebook containing the analysis
-└── zillow_data.csv  # Data from Zillow Research on median house prices
+└── notebook.ipynb   # Jupyter notebook containing the analysis
 ```
 
 ## Data Preprocessing

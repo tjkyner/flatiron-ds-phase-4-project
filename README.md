@@ -108,4 +108,4 @@ After modeling, optimizing, and forecasting values for the typical home in diffe
 While this project offered significant insight, there's a multitude of ways in which it could be enhanced. Some of these ways include:
 - Building an interactive dashboard for easier exploration of the data and forecasts
 - Factoring in additional data such as new developments in order to better capture trending areas
-- Using alternative evaluation metrics for what defines a good investment opportunity such as calculating the capitalization rate given assumed financing and operating costs instead of investing for appreciation
+- Using alternative evaluation metrics for what defines a good investment opportunity such as calculating the capitalization rate given assumed operating costs instead of investing for appreciation

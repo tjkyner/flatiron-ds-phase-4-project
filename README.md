@@ -1,4 +1,4 @@
-# Real Estate Investing
+# Real Estate Investing - Columbus, OH
 Student name: T.J. Kyner \
 Student pace: Full time \
 Instructor: Abhineet Kulkarni \

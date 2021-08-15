@@ -1,8 +1,4 @@
 # Real Estate Investing - Columbus, OH
-Student name: T.J. Kyner \
-Student pace: Full time \
-Instructor: Abhineet Kulkarni \
-Cohort: 040521
 
 ## Project Overview
 ### Data Source

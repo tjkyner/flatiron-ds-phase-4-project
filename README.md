@@ -100,6 +100,8 @@ After modeling, optimizing, and forecasting values for the typical home in diffe
 - 43110: +67.94%
 - 43125: +60.36%
 
+![Recommended zips](images/recommended_zips.png)
+
 ### Next Steps
 While this project offered significant insight, there's a multitude of ways in which it could be enhanced. Some of these ways include:
 - Building an interactive dashboard for easier exploration of the data and forecasts
